@@ -9,7 +9,7 @@ Gem::Specification.new do |s|
   s.version     = Initforthe::Routes::VERSION
   s.authors     = ["Rob Holland"]
   s.email       = ["rob@initforthe.com"]
-  s.homepage    = "TODO"
+  s.homepage    = "http://github.com/initforthe/routes"
   s.summary     = "Allows evaluation of Rails routes outside of controllers."
   s.description = "Allows evaluation of Rails routes outside of controllers."
 
